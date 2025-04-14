@@ -12,7 +12,7 @@
   <li>PHP: Backend logic for handling form submissions, file uploads, and database communication.</li>
   <li>MySQL: Persistent data storage for ID card records.</li>
 </ul>
-
+<br>
 <ul>
   <b>Ideal For</b>
   <li>Educational Institutions</li>
